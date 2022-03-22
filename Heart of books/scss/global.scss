@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  transition: 0.3s all linear;
+}
+html {
+  box-sizing: border-box;
+  font-size: 1em;
+}
+
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1468px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 25px;
+}
